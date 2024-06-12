@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="housing">Housing</string>
+    <string name="utilities">Utilities</string>
+    <string name="transportation">Transportation</string>
+    <string name="groceries">Groceries</string>
+    <string name="insurance">Insurance</string>
+    <string name="healthcare">Healthcare</string>
+    <string name="discretionary_expenses">Discretionary Expenses</string>
+    <string name="travel">Travel</string>
+    <string name="education">Education</string>
+    <string name="subscriptions">Subscriptions</string>
+    <string name="savings_investments">Savings &amp; Investments</string>
+    <string name="miscellaneous">Miscellaneous</string>
+    <string name="enter_expense_details">Enter Expense Details</string>
+    <string name="date_hint">Date</string>
+    <string name="reason_for_expense">Reason for Expense</string>
+    <string name="amount_hint">Amount</string>
+    <string name="save">Save</string>
+    <string name="home">Home</string>
+    <string name="error_date_required">Please enter the date.</string>
+    <string name="error_reason_required">Please enter a reason for the expense.</string>
+    <string name="error_amount_required">Please enter the amount.</string>
+    <string name="expense_saved">Expense Saved:\nDate: %1$s\nReason: %2$s\nAmount: %3$s</string>
+    <string name="date_text">Date</string>
+    <string name="amount_text">Amount</string>
+    <string name="reason_text">Reason</string>
+    <string name="expense_date">Date</string>
+    <string name="expense_amount">Amount</string>
+    <string name="expense_reason">Reason</string>
+</resources>
+
+
